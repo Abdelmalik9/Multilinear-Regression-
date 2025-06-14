@@ -1,6 +1,6 @@
 # Multilinear-Regression
-Retail Store Sales' drivers
-**01- Picking the variables** :
+Retail Store Sales' drivers 
+_01- Picking the variables** :
 Knowing the problem and understanding what drives it is
 key for a business analyst. Choose
 the variables that make business
